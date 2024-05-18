@@ -1,0 +1,25 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: "Poppins" sans-serif;
+}
+.card {
+    margin-top: 20px;
+}
+.card-img-top {
+    max-height: 300px;
+    object-fit: cover;
+}
+/* styles.css */
+
+.card-img-top {
+    object-fit: cover;
+    height: 300px;
+}
+.container{
+    background-color: gray;
+    h1{
+        color: white;
+    }
+}
